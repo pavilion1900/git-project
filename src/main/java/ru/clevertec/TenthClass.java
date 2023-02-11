@@ -1,6 +1,6 @@
 package ru.clevertec;
 
-public class ThirdClass {
+public class TenthClass {
 
     public static void main(String[] args) {
 
